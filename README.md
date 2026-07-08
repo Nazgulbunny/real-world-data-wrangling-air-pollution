@@ -65,6 +65,7 @@ real-world-data-wrangling-air-pollution/
 │   ├── raw/
 │   └── cleaned/
 └── images/
+```
 
 ## Visualizations
 
